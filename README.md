@@ -56,10 +56,3 @@ Common problem space includes detection and tracking of small fast moving object
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
-## Live GitHub metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
-## Contact
-
-* Email, <a href="mailto:tyler@lighthouseavionics.com">tyler@lighthouseavionics.com</a>
