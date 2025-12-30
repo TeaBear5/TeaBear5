@@ -59,13 +59,4 @@ Typical problem space, detection and tracking of small fast moving objects, mult
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
-## What you will find here
-
-* Tools and prototypes for real time perception pipelines
-* Evaluation utilities, profiling workflows, and deployment focused experiments
-* Select reusable components from production work, when releasable
-
-## GitHub highlights (pin these)
-
-On your GitHub profile, pin the 6 repositories that best represent your work (for example, a CUDA or TensorRT optimization repo, a GStreamer or DeepStream pipeline repo, a Django plus Vue product repo, and an evaluation harness repo). Pinned repos will do more for credibility than any badge list.
 
