@@ -69,29 +69,3 @@ Typical problem space, detection and tracking of small fast moving objects, mult
 
 On your GitHub profile, pin the 6 repositories that best represent your work (for example, a CUDA or TensorRT optimization repo, a GStreamer or DeepStream pipeline repo, a Django plus Vue product repo, and an evaluation harness repo). Pinned repos will do more for credibility than any badge list.
 
-## Stats
-
-<p align="left">
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TeaBear5&show_icons=true&include_all_commits=true&count_private=true"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=TeaBear5"
-  />
-</p>
-
-<p align="left">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBear5&layout=compact"
-  />
-</p>
-
-## Contact
-
-* Email, <a href="mailto:tyler@lighthouseavionics.com">tyler@lighthouseavionics.com</a>
