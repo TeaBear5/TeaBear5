@@ -10,19 +10,19 @@
 
 ## About
 
-I work at the intersection of embedded Linux, GPU accelerated computer vision, and full stack product delivery. My focus is building systems that perform reliably outside the lab, with disciplined latency, robust streaming, and operator friendly workflows.
+I work at the intersection of embedded Linux, GPU accelerated computer vision, and full stack product delivery, with a focus on systems that perform reliably outside the lab (latency disciplined, streaming robust, operator friendly).
 
-Typical problem space, detection and tracking of small fast moving objects, multi camera sensing, sensor fusion, and real time inference deployment on edge hardware.
+Common problem space includes detection and tracking of small fast moving objects, multi camera sensing, sensor fusion, and real time inference deployment on edge hardware.
 
 ## Core areas
 
-* Edge computer vision, detection, tracking, classification
-* GPU acceleration, CUDA and TensorRT optimization, profiling and throughput tuning
-* Real time video pipelines, GStreamer and DeepStream, streaming and transport reliability
-* Embedded Linux and systems engineering, services, networking, deployment hardening
-* Product engineering, Django APIs and real time backends, Vue and Vuetify frontends
+* Edge computer vision (detection, tracking, classification)
+* GPU acceleration (CUDA, TensorRT), profiling and throughput tuning
+* Real time video pipelines (GStreamer, DeepStream), streaming and transport reliability
+* Embedded Linux and systems engineering (services, networking, deployment hardening)
+* Product engineering (Django backends, APIs, Vue plus Vuetify frontends)
 
-## Tech stack (badges)
+## Skills and tooling
 
 <p align="left">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -53,10 +53,13 @@ Typical problem space, detection and tracking of small fast moving objects, mult
 <p align="left">
   <img alt="Vue" src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-</p>
-
-<p align="left">
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
+## Live GitHub metrics
 
+![GitHub Metrics](./github-metrics.svg)
+
+## Contact
+
+* Email, <a href="mailto:tyler@lighthouseavionics.com">tyler@lighthouseavionics.com</a>
